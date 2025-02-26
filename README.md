@@ -18,4 +18,5 @@ A Python-based CLI application to manage patient and doctor records in a hospita
  **Prerequisites**
 - Python 3.x installed
 - MySQL Server running on localhost
-- Required Python packages (see `requirements.txt`)
+- Required Python packages : mysql-connector-python==8.0.33
+                             clrprint==1.0.2
