@@ -4,7 +4,7 @@ from clrprint import *
 import finalcsvconversion
 
 
-cnx=mysql.connector.connect(user="root",passwd="@Nethish1234",host="localhost")
+cnx=mysql.connector.connect(user="root",passwd="",host="localhost")
 cursor=cnx.cursor()
 
 database="Patient"
